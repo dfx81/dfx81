@@ -3,10 +3,13 @@
 # dfx81's Profile
 
 Welcome to my profile, you can see most of my repos.
-Some are public while some are private. Most of my old
-stuff is also here. I like to keep them as a reminder
-on how far I've come since I started programming in
-high school.
+Most of my old stuff is also here. I like to keep
+them as a reminder on how far I've come since I
+started programming in high school.
+
+> Fav Language: Python, Javascript, C/C++  
+> Hobby: Coding, Drawing, Listening to Music  
+> Fav Artist: Yorushika, Kenshi Yonezu, Panic! at The Disco  
 
 ## Legends
 
