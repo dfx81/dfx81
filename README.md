@@ -23,6 +23,6 @@ exercises, or anything related to my studies. Some of them are
 part of a group project while some are entirely mine. The codes
 written by me are higher in quality and follow proper standards
 since most of them are judged by my lecturers. Those that aren't
-have codes with similar quality to my **[HOBBY]** repos.  
+have codes with similar quality to my ```[HOBBY]``` repos.  
 - **[WORK]**: These are projects that are part of the work I'm
 commissioned to do by my clients.  
