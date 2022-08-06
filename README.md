@@ -9,15 +9,15 @@
     <tr>
         <td width="50%"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
         <td width="50%">
-            <b>Roles:</b>
-            <p>Coding / Design / Illust / Animate</p>
+            <b># Roles</b>
+            <p>&nbsp;ー Coding<br>&nbsp;ー Design<br>&nbsp;ー Illust<br>&nbsp;ー Animate</p>
         </td>
     </tr>
     <tr>
         <td width="50%">
-            <b>Socials:</b>
+            <b># Socials</b>
             <p>
-                <a href="https://dfx-81.web.app">Website</a> / <a href="https://youtube.com/channel/UCVc6CZfMGuZZxjRPzZE91Iw">YouTube</a> / <a href="https://instagram.com/dfx_81">Instagram</a> / <a href="https://twitter.com/dfx_81">Twitter</a>
+                &nbsp;ー <a href="https://dfx-81.web.app">Website</a><br>&nbsp;ー <a href="https://youtube.com/channel/UCVc6CZfMGuZZxjRPzZE91Iw">YouTube</a><br>&nbsp;ー <a href="https://instagram.com/dfx_81">Instagram</a><br>&nbsp;ー <a href="https://twitter.com/dfx_81">Twitter</a>
             </p>
         </td>
         <td width="50%">
