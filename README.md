@@ -9,7 +9,7 @@
     <tr>
         <td width="50%"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
         <td width="50%">
-            <h3>I'm a:</h3>
+            <h4>I'm a:</h4>
             <ul>
                 <li>:computer: Programmer</li>
                 <li>:triangular_ruler: Designer</li>
@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td width="50%">
-            <h3>Find me at:</h3>
+            <h4>Find me at:</h4>
             <ul>
                 <li>HP: <a href="https://dfx-81.web.app">dfx space</a></li>
                 <li>YT: <a href="https://youtube.com/channel/UCVc6CZfMGuZZxjRPzZE91Iw">dfx / QLYCO</a></li>
@@ -36,9 +36,9 @@
     <tr>
         <td colspan="2">
             <div align="right">
-                <b>&copy; 2022, QLYCO / dfx</b>
+                <b>&copy; QLYCO / dfx</b>
                 <span>&nbsp;-&nbsp;</span>
-                <span>Stats by <a href="https://github.com/anuraghazra/github-readme-stats">@anuraghazra</a></span>
+                <span><a href="https://github.com/anuraghazra/github-readme-stats">Stats</a></span>
             </div>
         </td>
     </tr>
