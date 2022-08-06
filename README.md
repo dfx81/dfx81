@@ -9,24 +9,16 @@
     <tr>
         <td width="50%"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
         <td width="50%">
-            <h4>I'm a:</h4>
-            <ul>
-                <li>:computer: Programmer</li>
-                <li>:triangular_ruler: Designer</li>
-                <li>:art: Illustrator</li>
-                <li>:movie_camera: Animator</li>
-            </ul>
+            <h3>About</h3>
+            <p>I'm a Programmer / Designer / Illustrator / Animator / Nocturnal Earthling.</p>
         </td>
     </tr>
     <tr>
         <td width="50%">
-            <h4>Find me at:</h4>
-            <ul>
-                <li>HP: <a href="https://dfx-81.web.app">dfx space</a></li>
-                <li>YT: <a href="https://youtube.com/channel/UCVc6CZfMGuZZxjRPzZE91Iw">dfx / QLYCO</a></li>
-                <li>IG: <a href="https://instagram.com/dfx_81">@dfx_81</a></li>
-                <li>TW: <a href="https://twitter.com/dfx_81">@dfx_81</a></li>
-            </ul>
+            <h3>Socials</h3>
+            <p>
+                Find me on my <a href="https://dfx-81.web.app">Website</a> / <a href="https://youtube.com/channel/UCVc6CZfMGuZZxjRPzZE91Iw">YouTube</a> / <a href="https://instagram.com/dfx_81">Instagram</a> / <a href="https://twitter.com/dfx_81">Twitter</a>.
+            </p>
         </td>
         <td width="50%">
             <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dfx81&count_private=true&show_icons=true&include_all_commits=true" />
