@@ -11,10 +11,25 @@
         </td>
     </tr>
     <tr>
+        <td colspan="6">
+            <div align="center">
+                <b>Current Project: </b>
+                <a href="https://dfx81.github.io/yt-roulette">YouTube Roulette</a>
+            </div>
+        </td>
+    </tr>
+    <tr>
         <td width="50%" colspan="3"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
         <td width="50%" colspan="3">
             <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dfx81&count_private=true&show_icons=true&include_all_commits=true" />
             <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfx81&layout=compact&langs_count=10">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="6">
+            <div align="center">
+                <b>About Me</b>
+            </div>
         </td>
     </tr>
     <tr>
