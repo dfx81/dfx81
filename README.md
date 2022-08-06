@@ -7,7 +7,7 @@
         </td>
         <td width="75%" colspan="4">
             <h1>Hi, I'm Danial!</h1>
-            <p>I'm a Programmer, Designer, Illustrator, Animator, and a Nocturnal Earthling.</p>
+            <p>I'm a Programmer / Designer / Illustrator / Animator / Nocturnal Earthling</p>
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
     <tr>
         <td colspan="6">
             <div align="center">
-                <b>About Me</b>
+                <b>Profile</b>
             </div>
         </td>
     </tr>
