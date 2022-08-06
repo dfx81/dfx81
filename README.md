@@ -9,7 +9,7 @@
     <tr>
         <td width="50%"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
         <td width="50%">
-            <h2>About Me</h2>
+            <h3>I'm a:</h3>
             <ul>
                 <li>:computer: Programmer</li>
                 <li>:triangular_ruler: Designer</li>
@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td width="50%">
-            <h2>Socials</h2>
+            <h3>Find me at:</h3>
             <ul>
                 <li>HP: <a href="https://dfx-81.web.app">dfx space</a></li>
                 <li>YT: <a href="https://youtube.com/channel/UCVc6CZfMGuZZxjRPzZE91Iw">dfx / QLYCO</a></li>
