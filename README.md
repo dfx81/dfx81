@@ -9,8 +9,8 @@
     <tr>
         <td width="50%"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
         <td width="50%">
-            <b># Roles</b>
-            <p>&nbsp;ー Coding<br>&nbsp;ー Design<br>&nbsp;ー Illust<br>&nbsp;ー Animate</p>
+            <b># About Me</b>
+            <p>&nbsp;ー Programmer<br>&nbsp;ー Designer<br>&nbsp;ー Illustrator<br>&nbsp;ー Animator</p>
         </td>
     </tr>
     <tr>
