@@ -2,25 +2,30 @@
     <div align="center">
         <img width="25%" alt="logo" src="https://dfx81.github.io/res/logo.png">
     </div>
-    <h2 align="center">Hi, I'm Danial!</h2>
+    <h1 align="center">- Hi, I'm Danial! -</h1>
 </div>
 
 <table>
     <tr>
         <td width="50%"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
         <td width="50%">
-            <h3>About Me</h3>
-            <p>I'm mainly a programmer, but I also create art and animations during my free time.</p>
+            <h2>About Me</h2>
+            <ul>
+                <li>:computer: Programmer</li>
+                <li>:triangular_ruler: Designer</li>
+                <li>:art: Illustrator</li>
+                <li>:movie_camera: Animator</li>
+            </ul>
         </td>
     </tr>
     <tr>
         <td width="50%">
-            <h3>Socials</h3>
+            <h2>Socials</h2>
             <ul>
-                <li>Web: <a href="https://dfx-81.web.app">dfx space</a></li>
-                <li>YouTube: <a href="https://youtube.com/channel/UCVc6CZfMGuZZxjRPzZE91Iw">dfx / QLYCO</a></li>
-                <li>Instagram: <a href="https://instagram.com/dfx_81">@dfx_81</a></li>
-                <li>Twitter: <a href="https://twitter.com/dfx_81">@dfx_81</a></li>
+                <li>HP: <a href="https://dfx-81.web.app">dfx space</a></li>
+                <li>YT: <a href="https://youtube.com/channel/UCVc6CZfMGuZZxjRPzZE91Iw">dfx / QLYCO</a></li>
+                <li>IG: <a href="https://instagram.com/dfx_81">@dfx_81</a></li>
+                <li>TW: <a href="https://twitter.com/dfx_81">@dfx_81</a></li>
             </ul>
         </td>
         <td width="50%">
