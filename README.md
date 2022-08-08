@@ -13,7 +13,7 @@
     <tr>
         <td colspan="6">
             <div align="center">
-                <b>Current Project: </b>
+                <b>Latest Project: </b>
                 <a href="https://dfx81.github.io/yt-roulette">YouTube Roulette</a>
             </div>
         </td>
