@@ -8,6 +8,7 @@
         <td width="75%" colspan="4">
             <h1>Hi, I'm Danial!</h1>
             <p>I'm a Programmer / Designer / Illustrator / Animator / Nocturnal Earthling</p>
+            <img src="https://komarev.com/ghpvc/?username=dfx81&label=Views" alt="Profile views">
         </td>
     </tr>
     <tr>
@@ -52,6 +53,8 @@
                 <b>&copy; QLYCO / dfx</b>
                 <span>&nbsp;-&nbsp;</span>
                 <span><a href="https://github.com/anuraghazra/github-readme-stats">Stats</a></span>
+                <span>&nbsp;-&nbsp;</span>
+                <span><a href="https://github.com/antonkomarev/github-profile-views-counter">Views</a></span>
             </div>
         </td>
     </tr>
