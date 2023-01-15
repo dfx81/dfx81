@@ -22,8 +22,10 @@
     <tr>
         <td width="50%" colspan="3"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
         <td width="50%" colspan="3">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dfx81&count_private=true&show_icons=true&include_all_commits=true" />
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfx81&layout=compact&langs_count=10">
+            <h2>About</h2>
+            <p>I'm a software engineer based in Malaysia. I graduated from University Utara Malaysia (UUM) with a Bachelor's Degree in Science (Information Technology)</p>
+            <!--img width="100%" src="https://github-readme-stats.vercel.app/api?username=dfx81&count_private=true&show_icons=true&include_all_commits=true" />
+            <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfx81&layout=compact&langs_count=10"-->
         </td>
     </tr>
     <tr>
@@ -37,7 +39,7 @@
         <td width="50%" colspan="3">
             <h2>Proficiency</h2>
             <p>
-                &nbsp;ー Heroku<br>&nbsp;ー Firebase<br>&nbsp;ー React<br>&nbsp;ー Flutter<br>&nbsp;ー Python
+                &nbsp;ー Docker<br>&nbsp;ー Firebase<br>&nbsp;ー React<br>&nbsp;ー Flutter<br>&nbsp;ー Python
             </p>
         </td>
         <td width="50%" colspan="3">
@@ -51,8 +53,8 @@
         <td colspan="6">
             <div align="right">
                 <b>&copy; QLYCO / dfx</b>
-                <span>&nbsp;-&nbsp;</span>
-                <span><a href="https://github.com/anuraghazra/github-readme-stats">Stats</a></span>
+                <!--span>&nbsp;-&nbsp;</span>
+                <span><a href="https://github.com/anuraghazra/github-readme-stats">Stats</a></span-->
                 <span>&nbsp;-&nbsp;</span>
                 <span><a href="https://github.com/antonkomarev/github-profile-views-counter">Views</a></span>
             </div>
