@@ -15,7 +15,7 @@
         <td colspan="6">
             <div align="center">
                 <b>Latest Project: </b>
-                <a href="https://dfx81.github.io/yt-roulette">YouTube Roulette</a>
+                <a href="https://github.com/dfx81/netgame">Netgame</a>
             </div>
         </td>
     </tr>
@@ -23,7 +23,7 @@
         <td width="50%" colspan="3"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
         <td width="50%" colspan="3">
             <h2>About</h2>
-            <p>I'm a software engineer based in Malaysia. I graduated from University Utara Malaysia (UUM) with a Bachelor's Degree in Science (Information Technology)</p>
+            <p>I'm a software engineer based in Malaysia.<br/>I am studying in University Utara Malaysia (UUM) for a Bachelor's Degree in Science (Information Technology).<br/>I like to spend my free time engaging in creative activities, such as drawing illustrations, animating a short animation, composing music, and writing poetry.<br/>However, most of my time will be spent programming on a project or two.</p>
             <!--img width="100%" src="https://github-readme-stats.vercel.app/api?username=dfx81&count_private=true&show_icons=true&include_all_commits=true" />
             <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfx81&layout=compact&langs_count=10"-->
         </td>
