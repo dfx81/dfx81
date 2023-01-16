@@ -22,8 +22,10 @@
     <tr>
         <td width="50%" colspan="3"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
         <td width="50%" colspan="3">
-            <h2>About</h2>
-            <p>I'm a software engineer based in Malaysia.<br/>I am studying in University Utara Malaysia (UUM) for a Bachelor's Degree in Science (Information Technology).<br/>I like to spend my free time engaging in creative activities, such as drawing illustrations, animating a short animation, composing music, and writing poetry.<br/>However, most of my time will be spent programming on a project or two.</p>
+            <h2>Achievements</h2>
+            <p>
+                &nbsp;ー I-RIA 2022: Gold Medalist (H-99415)<br>&nbsp;ー I-RIA 2022: IEEE CIS Exceptional Award Winner (H-99415)<br>&nbsp;ー Coming soon!
+            </p>
             <!--img width="100%" src="https://github-readme-stats.vercel.app/api?username=dfx81&count_private=true&show_icons=true&include_all_commits=true" />
             <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfx81&layout=compact&langs_count=10"-->
         </td>
@@ -39,13 +41,13 @@
         <td width="50%" colspan="3">
             <h2>Proficiency</h2>
             <p>
-                &nbsp;ー Docker<br>&nbsp;ー Firebase<br>&nbsp;ー React<br>&nbsp;ー Flutter<br>&nbsp;ー Python
+                &nbsp;ー Docker<br>&nbsp;ー Firebase<br>&nbsp;ー React<br>&nbsp;ー Flutter<br>&nbsp;ー Python<br>&nbsp;ー Git
             </p>
         </td>
         <td width="50%" colspan="3">
             <h2>Socials</h2>
             <p>
-                &nbsp;ー <a href="https://dfx-81.web.app">Website</a><br>&nbsp;ー <a href="https://youtube.com/channel/UCVc6CZfMGuZZxjRPzZE91Iw">YouTube</a><br>&nbsp;ー <a href="https://instagram.com/dfx_81">Instagram</a><br>&nbsp;ー <a href="https://twitter.com/dfx_81">Twitter</a><br>&nbsp;ー <a href="https://github.com/dfx81">Github</a>
+                &nbsp;ー <a href="https://dfx-81.web.app">Website</a><br>&nbsp;ー <a href="https://www.youtube.com/@dfx81">YouTube</a><br>&nbsp;ー <a href="https://instagram.com/dfx_81">Instagram</a><br>&nbsp;ー <a href="https://twitter.com/dfx_81">Twitter</a><br>&nbsp;ー <a href="https://github.com/dfx81">GitHub</a><br>&nbsp;ー <a href="https://www.linkedin.com/in/danial-fitri/">LinkedIn</a>
             </p>
         </td>
     </tr>
