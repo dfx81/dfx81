@@ -22,12 +22,29 @@
     <tr>
         <td width="50%" colspan="3"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
         <td width="50%" colspan="3">
-            <h2>Achievements</h2>
+            <h2>Skills</h2>
             <p>
-                &nbsp;ー I-RIA 2022: Gold Medalist (H-99415)<br>&nbsp;ー I-RIA 2022 IEEE CIS Special Award: Champion (H-99415)<br>&nbsp;ー Coming soon!
+                &nbsp;ー Desktop Development<br>&nbsp;ー Web Development<br>&nbsp;ー Game Development<br>&nbsp;ー Mobile Development
             </p>
             <!--img width="100%" src="https://github-readme-stats.vercel.app/api?username=dfx81&count_private=true&show_icons=true&include_all_commits=true" />
             <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfx81&layout=compact&langs_count=10"-->
+        </td>
+    </tr>
+    <tr>
+        <td colspan="6">
+            <div align="center">
+                <b>Achievements</b>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="6">
+            <div>
+                <h2>2022</h2>
+                <p>
+                    &nbsp;ー I-RIA 2022: Gold Medalist (H-99415)<br>&nbsp;ー I-RIA 2022 IEEE CIS Special Award: Champion (H-99415)<br>&nbsp;ー Coming soon!
+                </p>
+            </div>
         </td>
     </tr>
     <tr>
