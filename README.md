@@ -39,7 +39,7 @@
             <div>
                 <h2>Awards</h2>
                 <p>
-                    &nbsp;ー I-RIA 2022: Gold Medalist (H-99415)<br>&nbsp;ー I-RIA 2022 IEEE CIS Special Award: Champion (H-99415)<br>&nbsp;ー More coming soon!
+                    &nbsp;ー I-RIA 2022: Gold Medallist (H-99415)<br>&nbsp;ー I-RIA 2022 IEEE CIS Special Award: Champion (H-99415)<br>&nbsp;ー More coming soon!
                 </p>
             </div>
         </td>
