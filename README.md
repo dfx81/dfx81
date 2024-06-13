@@ -2,7 +2,7 @@
     <tr>
         <td width="25%" colspan="2">
             <div align="center">
-                <img width="100%" alt="logo" src="https://dfx81.github.io/res/logo.png">
+                <img width="100%" alt="logo" src="https://dfx.qlycoworks.com/res/logo.png">
             </div>
         </td>
         <td width="75%" colspan="4">
@@ -20,9 +20,9 @@
         </td>
     </tr>
     <tr>
-        <td width="50%" colspan="3"><img width="100%" src="https://dfx81.github.io/res/lookout.png" /></td>
+        <td width="50%" colspan="3"><img width="100%" src="https://dfx.qlycoworks.com/res/lookout.png" /></td>
         <td width="50%" colspan="3">
-            <img width="100%" src="https://dfx81.github.io/res/sleep.png" />
+            <img width="100%" src="https://dfx.qlycoworks.com/res/sleep.png" />
             <!--img width="100%" src="https://github-readme-stats.vercel.app/api?username=dfx81&count_private=true&show_icons=true&include_all_commits=true" />
             <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfx81&layout=compact&langs_count=10"-->
         </td>
