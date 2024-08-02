@@ -61,7 +61,7 @@
         <td width="50%" colspan="3">
             <h2>Socials</h2>
             <p>
-                &nbsp;ー <a href="https://dfx-81.web.app">Website</a><br>&nbsp;ー <a href="https://www.youtube.com/@dfx81">YouTube</a><br>&nbsp;ー <a href="https://instagram.com/dfx_81">Instagram</a><br>&nbsp;ー <a href="https://twitter.com/dfx_81">Twitter</a><br>&nbsp;ー <a href="https://github.com/dfx81">GitHub</a><br>&nbsp;ー <a href="https://www.linkedin.com/in/danial-fitri/">LinkedIn</a>
+                &nbsp;ー <a href="https://dfx.qlycoworks.com">Website</a><br>&nbsp;ー <a href="https://www.youtube.com/@dfx81">YouTube</a><br>&nbsp;ー <a href="https://instagram.com/dfx_81">Instagram</a><br>&nbsp;ー <a href="https://twitter.com/dfx_81">Twitter</a><br>&nbsp;ー <a href="https://github.com/dfx81">GitHub</a><br>&nbsp;ー <a href="https://www.linkedin.com/in/danial-fitri/">LinkedIn</a>
             </p>
         </td>
     </tr>
