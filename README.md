@@ -15,7 +15,7 @@
         <td colspan="6">
             <div align="center">
                 <b>Latest Project: </b>
-                <a href="https://github.com/qlyco/minesweeper">Minesweeper</a>
+                <a href="https://github.com/qlyco/mergeblox">mergeblox</a>
             </div>
         </td>
     </tr>
