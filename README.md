@@ -15,7 +15,7 @@
         <td colspan="6">
             <div align="center">
                 <b>Latest Project: </b>
-                <a href="https://github.com/qlyco/mergeblox">mergeblox</a>
+                <a href="https://github.com/qlyco/dotedit">dotedit</a>
             </div>
         </td>
     </tr>
